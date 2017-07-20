@@ -1,0 +1,7 @@
+config.production.json
+config.development.json
+.ghost-cli
+versions/
+system/
+current/
+content/logs
