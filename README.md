@@ -22,6 +22,8 @@ The project is maintained by a non-profit organisation called the **Ghost Founda
 
 # Hosting a live Ghost site
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/sethbergman.engineer.svg)](https://greenkeeper.io/)
+
 <a href="https://ghost.org/pricing"><img src="https://cloud.githubusercontent.com/assets/120485/18662071/f30da886-7f18-11e6-90f2-42c0ade79fd1.png" alt="Ghost(Pro)" /></a>
 
 The easiest way to deploy Ghost is with our official **[Ghost(Pro)](https://ghost.org/pricing/)** managed service. You can have a fresh instance up and running in a couple of clicks with a worldwide CDN, backups, security and maintenance all done for you.
